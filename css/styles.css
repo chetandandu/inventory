@@ -1,3 +1,6 @@
+img {
+    margin-right: 5px; /* Add some spacing between icons */
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
