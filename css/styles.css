@@ -20,12 +20,12 @@ nav li {
 }
 
 .dropdown {
-    position: relative;
+    position: absolute;
 }
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #333;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
